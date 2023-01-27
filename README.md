@@ -1,1 +1,1 @@
-# NanoChatGPT
+# Transformer Shakespeare Generation
